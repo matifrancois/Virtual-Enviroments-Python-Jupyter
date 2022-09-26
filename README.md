@@ -11,7 +11,7 @@ python -m venv env
 ```
 
 
-con eso creaste un virtual enviroment que se llama env.
+Con eso creaste un virtual enviroment que se llama env.
 
 - Para activarlo hay que hacer:
 
