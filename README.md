@@ -43,7 +43,7 @@ y ahí pones:
 python -m ipykernel install --user --name=myenv
 ```
 
-Eso va a linkear el entorno en el que estás con jupyter, esto lo hace con --name=myenv. Ese "myenv" es el nombre que va a tener en jupyter, así que ponele un nombre mas descriptivo quizás. Una vez hecho esto desde jupyter te va a dejar seleccionar el kernel que prefieras y myenv va a aparecer como una opción.
+Eso va a linkear el entorno en el que estás con jupyter, esto lo hace con --name=myenv. Ese "myenv" es el nombre que va a tener en jupyter, así que hay que utilizar un nombre mas descriptivo quizás. Una vez hecho esto desde jupyter te va a dejar seleccionar el kernel que prefieras y myenv va a aparecer como una opción.
 
 - Luego para "desinstalarlo de jupyter" tenes que:
 
